@@ -8,7 +8,7 @@ from openai import OpenAI
 # Initialize OpenAI client with OpenRouter
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key="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",  # Replace with your actual API key
+    api_key="",  # Replace with your actual API key
 )
 
 # Define Areas of Interest (ROI)
